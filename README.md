@@ -62,4 +62,6 @@ print("----------------------------------------------------------------------")
 ## Output
 <img width="721" height="398" alt="560285105-08542591-6939-44a4-be65-5a0422222f3e" src="https://github.com/user-attachments/assets/8ec5d752-ec87-4786-869d-a63a11f3088d" />
 ## Result
-thus the program  Series Queues with infinite capacity - Open Jackson Network was verified using python program
+***
+### Thus the program  Series Queues with infinite capacity - Open Jackson Network was verified using python program
+***
